@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RestRoomTime")(type "KiCad")(uri "${KIPRJMOD}/RestRoomTime.kicad_sym")(options "")(descr ""))
+)

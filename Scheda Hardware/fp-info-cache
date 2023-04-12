@@ -1,0 +1,117 @@
+248071911221695
+Button_Switch_SMD
+Nidec_Copal_SH-7010A
+4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+Button_Switch_SMD
+Nidec_Copal_SH-7010B
+4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+Button_Switch_SMD
+Nidec_Copal_SH-7040B
+4-bit rotary coded switch, gull wing, Gray code, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+5
+5
+Button_Switch_SMD
+Panasonic_EVQPUJ_EVQPUA
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUJ EVQPUA
+0
+4
+2
+Button_Switch_SMD
+Panasonic_EVQPUK_EVQPUB
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUK EVQPUB
+0
+4
+2
+Button_Switch_SMD
+Panasonic_EVQPUL_EVQPUC
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUL EVQPUC
+0
+4
+2
+Button_Switch_SMD
+Panasonic_EVQPUM_EVQPUD
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUM EVQPUD
+0
+4
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin
+SMD 1x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
+SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile
+SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
+SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm
+SMD 1x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x4.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
+SMD DIP Switch SPST Slide 8.61mm 338mil SMD
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
+SMD 1x-dip-switch SPST Copal_CHS-01A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
+SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_Copal_CHS-01B_W7.62mm_P1.27mm
+SMD 1x-dip-switch SPST Copal_CHS-01B, Slide, row spacing 7.62 mm (300 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD
+SMD DIP Switch SPST Slide 7.62mm 300mil SMD
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_Copal_CVS-01xB_W5.9mm_P1mm
+SMD 1x-dip-switch SPST Copal_CVS-01xB, Slide, row spacing 5.9 mm (232 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/cvs.pdf)
+SMD DIP Switch SPST Slide 5.9mm 232mil
+0
+6
+3
+Button_Switch_SMD
+SW_DIP_SPSTx01_Slide_Omron_A6S-110x_W8.9mm_P2.54mm
+SMD 1x-dip-switch SPST Omron_A6S-110x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
+SMD DIP Switch SPST Slide 8.9mm 350mil
+0
+2
+2
+Button_Switch_SMD
+SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin
+SMD 2x-dip-switch SPST , Slide, row spacing 6.73 mm (264 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile, JPin
+SMD DIP Switch SPST Slide 6.73mm 264mil SMD LowProfile JPin
+0
+4
+4
+Button_Switch_SMD
+SW_DIP_SPSTx02_Slide_6.7x6.64mm_W8.61mm_P2.54mm_LowProfile
+SMD 2x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/219.pdf), SMD, LowProfile
+SMD DIP Switch SPST Slide 8.61mm 338mil SMD LowProfile
+0
+4
+4
+Button_Switch_SMD
+SW_DIP_SPSTx02_Slide_9.78x7.26mm_W8.61mm_P2.54mm
+SMD 2x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
+SMD DIP Swit
