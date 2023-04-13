@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x9y+oBL5Pp6wKBXoDfAOjYMvOIxYiRLgPXnwAG86ZKcvarOzOyVa+JGUCbgtXxKPblNTc/ZKlM0S1gC3zuYdew==",
+  "success": true,
+  "projectFilePath": "G:\\.shortcut-targets-by-id\\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\\RestRoomTime\\GatewayMQTT\\ClientMQTT\\ClientMQTT\\ClientMQTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sciany\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
