@@ -1,4 +1,6 @@
-
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
 #include <SPI.h>
 #include <MFRC522.h>
 #include <ESP8266WiFi.h>
@@ -6,6 +8,11 @@
 
 #define SS_PIN D4
 #define RST_PIN D3
+
+#define IDMACCHINA 1
+
+#define SCREEN_WIDTH 128  // OLED display width, in pixels
+#define SCREEN_HEIGHT 64  // OLED display height, in pixels
 
 const char* ssid = "Polo_Pubblica";
 const char* password = "";
@@ -18,6 +25,7 @@ unsigned long lastMsg = 0;
 char msg[MSG_BUFFER_SIZE];
 int value = 0;
 
+//Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 MFRC522 rfid(SS_PIN, RST_PIN);
 
 MFRC522::MIFARE_Key key;
@@ -43,16 +51,25 @@ void setup() {
   Serial.print(F("Using the following key:"));
   printHex(key.keyByte, MFRC522::MF_KEY_SIZE);
 
+  snprintf(msg, MSG_BUFFER_SIZE, "Term:%d;Power On", IDMACCHINA);
+  client.publish("RestroomTime23", msg);
 
 }
 
 void setup_wifi() {
   delay(10);
   // We start by connecting to a WiFi network
+  /*
+  display.setCursor(0, 0);
+  display.clearDisplay();
+  display.print("Connecting to ");
+  display.println(ssid);
+  display.display();
+  */
   Serial.println();
   Serial.print("Connecting to ");
   Serial.println(ssid);
-
+  
   WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, password);
 
@@ -62,11 +79,19 @@ void setup_wifi() {
   }
 
   randomSeed(micros());
-
+  
   Serial.println("");
   Serial.println("WiFi connected");
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
+  
+  /*
+  display.println("");
+  display.println("WiFi connected");
+  display.println("IP address: ");
+  display.println(WiFi.localIP());
+  display.display();
+  */
 }
 
 void callback(char* topic, byte* payload, unsigned int length) {
@@ -132,6 +157,10 @@ void loop() {
     return;
   }
 
+  snprintf(msg, MSG_BUFFER_SIZE, "Term:%d;Cod:%d-%d-%d-%d", IDMACCHINA, rfid.uid.uidByte[0], rfid.uid.uidByte[1], rfid.uid.uidByte[2], rfid.uid.uidByte[3]);
+  client.publish("RestroomTime23", msg);
+  delay(2000);
+  /*
   if (rfid.uid.uidByte[0] != nuidPICC[0] || rfid.uid.uidByte[1] != nuidPICC[1] || rfid.uid.uidByte[2] != nuidPICC[2] || rfid.uid.uidByte[3] != nuidPICC[3]
         || deltatime) {
     Serial.println(F("A new card has been detected."));
@@ -141,7 +170,7 @@ void loop() {
       nuidPICC[i] = rfid.uid.uidByte[i];
     }
 
-    snprintf(msg, MSG_BUFFER_SIZE, "%d-%d-%d-%d", rfid.uid.uidByte[0], rfid.uid.uidByte[1], rfid.uid.uidByte[2], rfid.uid.uidByte[3]);
+    snprintf(msg, MSG_BUFFER_SIZE, "Term:%d;Cod:%d-%d-%d-%d", IDMACCHINA, rfid.uid.uidByte[0], rfid.uid.uidByte[1], rfid.uid.uidByte[2], rfid.uid.uidByte[3]);
     client.publish("RestroomTime23", msg);
     deltatime = 1;
     Serial.println();
@@ -149,10 +178,9 @@ void loop() {
     printDec(rfid.uid.uidByte, rfid.uid.size);
     Serial.println();
   } else Serial.println(F("Card read previously."));
-
+  */
 
   rfid.PICC_HaltA();
-
 
   rfid.PCD_StopCrypto1();
 

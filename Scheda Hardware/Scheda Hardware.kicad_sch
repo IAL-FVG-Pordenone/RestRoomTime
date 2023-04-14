@@ -643,6 +643,15 @@
     (uuid e1b6f7fb-a8ca-40b7-a9aa-914ca0bbdea0)
   )
 
+  (text "MOSI" (at 109.22 59.69 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid af3815b3-d83a-4a5b-927a-c80093a6caa7)
+  )
+  (text "MISO" (at 109.22 57.15 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid baf4e3f0-81ff-4b46-b169-aa18359512d4)
+  )
+
   (label "SCL" (at 111.76 39.37 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0676142b-4306-4288-85b2-fb8c8975f598)
