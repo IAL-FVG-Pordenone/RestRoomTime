@@ -441,8 +441,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "Scheda Hardware.step",
+      "vrml": "Scheda Hardware.wrl"
     },
     "page_layout_descr_file": ""
   },

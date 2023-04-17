@@ -462,6 +462,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
+    (model ":GRIGOLETTI:3D model/ESP8266.STEP"
+      (offset (xyz 2.8 33.5 11))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
@@ -722,6 +727,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ":GRIGOLETTI:KiCad-SSD1306-128x64/images/SSD1306_OLED_Display(128x64).step"
+      (offset (xyz 0.2 -1.2 11))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "RestRoomTime:RFID-RC522" (layer "B.Cu")
@@ -771,6 +781,11 @@
       (net 4 "+3.3V") (pinfunction "3.3V") (pintype "passive") (tstamp 530809c9-4035-4067-8acd-a59841f8d014))
     (model ":PERSONAL_LIB_HOME:3D model/RC522.STEP"
       (offset (xyz 28.2 -8.75 1.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
+    )
+    (model ":GRIGOLETTI:3D model/RC522.STEP"
+      (offset (xyz 28.2 -8.75 11))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
     )
@@ -2900,6 +2915,7 @@
         (xy 97.951081 56.179767)
         (xy 97.91593 56.198154)
         (xy 97.87677 56.2045)
+        (xy 96.621741 56.2045)
         (xy 96.548501 56.2045)
         (xy 96.542221 56.204341)
         (xy 96.475345 56.200949)
