@@ -1,0 +1,34 @@
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.exe
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.deps.json
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.runtimeconfig.json
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.pdb
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTnet.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.CopyComplete
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\refint\MQTTsubscriber.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.pdb
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.genruntimeconfig.cache
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\ref\MQTTsubscriber.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.exe
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.deps.json
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.runtimeconfig.json
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTsubscriber.pdb
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MQTTnet.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.AssemblyReference.cache
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.AssemblyInfoInputs.cache
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.AssemblyInfo.cs
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.CoreCompileInputs.cache
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.csproj.CopyComplete
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\refint\MQTTsubscriber.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.pdb
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.genruntimeconfig.cache
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\ref\MQTTsubscriber.dll

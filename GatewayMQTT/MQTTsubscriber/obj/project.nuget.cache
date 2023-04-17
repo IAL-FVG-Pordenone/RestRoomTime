@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkqAXIl79SqjDSfg0LHwZV/+iwTqtcKtYLHRNrXweSmS5LcId3c5fgmrMsohqClS4vSTVEjMhKATJXU/N5eDZA==",
+  "success": true,
+  "projectFilePath": "G:\\Drive condivisi\\Progetti 22-23\\2IOT\\RestRoomTime\\GatewayMQTT\\MQTTsubscriber\\MQTTsubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bortolanim\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
