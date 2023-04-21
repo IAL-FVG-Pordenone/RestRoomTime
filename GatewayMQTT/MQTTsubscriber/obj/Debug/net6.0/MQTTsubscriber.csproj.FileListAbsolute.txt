@@ -32,3 +32,55 @@ G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\o
 G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.pdb
 G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\MQTTsubscriber.genruntimeconfig.cache
 G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\obj\Debug\net6.0\ref\MQTTsubscriber.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\Google.Protobuf.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MySql.Data.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Text.Json.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\.shortcut-targets-by-id\15d4iusCA1JoEhlMGug-Or7wsDxuIWZZV\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\Google.Protobuf.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\MySql.Data.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.IO.Pipelines.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Text.Json.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Drive condivisi\Progetti 22-23\2IOT\RestRoomTime\GatewayMQTT\MQTTsubscriber\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

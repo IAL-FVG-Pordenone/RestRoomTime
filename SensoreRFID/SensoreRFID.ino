@@ -34,6 +34,7 @@ byte nuidPICC[4];
 int deltatime = 0;
 
 void setup() {
+  delay(2000);
   Serial.begin(9600);
   SPI.begin();
   rfid.PCD_Init();
@@ -158,6 +159,7 @@ void loop() {
   }
 
   snprintf(msg, MSG_BUFFER_SIZE, "Term:%d;Cod:%d-%d-%d-%d", IDMACCHINA, rfid.uid.uidByte[0], rfid.uid.uidByte[1], rfid.uid.uidByte[2], rfid.uid.uidByte[3]);
+  Serial.println(msg);
   client.publish("RestroomTime23", msg);
   delay(2000);
   /*

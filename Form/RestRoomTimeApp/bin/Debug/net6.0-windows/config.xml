@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<configSections>
+		<sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+			<section name="_09___Gestionale.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+		</sectionGroup>
+	</configSections>
+	<applicationSettings>
+		<_09___Gestionale.Properties.Settings>
+			<setting name="MysqlServer" serializeAs="String">
+				<value>127.0.0.1</value>
+			</setting>
+			<setting name="Database" serializeAs="String">
+				<value>restroomtime</value>
+			</setting>
+			<setting name="Uid" serializeAs="String">
+				<value>restroomtime</value>
+			</setting>
+			<setting name="Pwd" serializeAs="String">
+				<value>restroomtime</value>
+			</setting>
+		</_09___Gestionale.Properties.Settings>
+	</applicationSettings>
+</configuration>

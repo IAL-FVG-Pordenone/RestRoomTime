@@ -1,0 +1,17 @@
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\ClientMQTT4.exe
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\ClientMQTT4.deps.json
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\ClientMQTT4.runtimeconfig.json
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\ClientMQTT4.dll
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\ClientMQTT4.pdb
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.csproj.AssemblyReference.cache
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.AssemblyInfoInputs.cache
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.AssemblyInfo.cs
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.csproj.CoreCompileInputs.cache
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.csproj.CopyComplete
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.dll
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\refint\ClientMQTT4.dll
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.pdb
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ClientMQTT4.genruntimeconfig.cache
+C:\Users\bortolanim\Desktop\ClientMQTT4\ClientMQTT4\obj\Debug\net6.0\ref\ClientMQTT4.dll

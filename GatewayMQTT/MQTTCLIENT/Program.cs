@@ -4,6 +4,7 @@ using MQTTnet;
 using MQTTnet.Client;
 using MQTTnet.Client.Options;
 
+
 namespace MQTTCLIENT
 {
      class Publisher
@@ -26,6 +27,7 @@ namespace MQTTCLIENT
             {
                 Console.WriteLine("Disconnessione al broker effettuata");
             });
+
 
 
             await client.ConnectAsync(options);
